@@ -30,6 +30,8 @@ Please let me know if you are interested in contributing to this endeavor.
 :small_blue_diamond: **YOLO** [[Paper]](http://arxiv.org/pdf/1506.02640v5.pdf) [[Code]](http://pjreddie.com/darknet/yolo/) [[Description]]()
 * Redmon, Joseph, et al. "You only look once: Unified, real-time object detection." arXiv preprint arXiv:1506.02640 (2015).
 
+
+
 ### Segmentation
 :small_blue_diamond: **SegNet** [[Paper]](http://arxiv.org/pdf/1505.07293v1.pdf) [[Paper]](http://arxiv.org/pdf/1511.00561v2.pdf) [[Paper]](http://arxiv.org/pdf/1511.02680v1.pdf) [[Code]](https://github.com/alexgkendall/caffe-segnet) [[Tutorial]](https://github.com/alexgkendall/SegNet-Tutorial) [[Description]]()
 * Badrinarayanan, Vijay, Ankur Handa, and Roberto Cipolla. "Segnet: A deep convolutional encoder-decoder architecture for robust semantic pixel-wise labelling." arXiv preprint arXiv:1505.07293 (2015).
@@ -37,4 +39,7 @@ Please let me know if you are interested in contributing to this endeavor.
 * Kendall, Alex, Vijay Badrinarayanan, and Roberto Cipolla. "Bayesian SegNet: Model Uncertainty in Deep Convolutional Encoder-Decoder Architectures for Scene Understanding." arXiv preprint arXiv:1511.02680 (2015).
 
 
+
 ### Object Detection in Videos
+:small_blue_diamond: **T-CNN** [[Paper]](http://arxiv.org/pdf/1604.02532v2.pdf) [[Code]](https://github.com/myfavouritekk/T-CNN) [[Description]]()
+* Kang, Kai, et al. "T-cnn: Tubelets with convolutional neural networks for object detection from videos." arXiv preprint arXiv:1604.02532 (2016).
