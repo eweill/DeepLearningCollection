@@ -12,13 +12,13 @@ Please let me know if you are interested in contributing to this endeavor.
 - [Object Detection in Videos](#object-detection-in-videos)
 
 ### Object Detection in Images
-:small_orange_diamond: **RCNN** [[Paper]](http://arxiv.org/pdf/1311.2524v5.pdf) [[Code]](https://github.com/rbgirshick/rcnn) [[Description]]()
+:small_orange_diamond: **R-CNN** [[Paper]](http://arxiv.org/pdf/1311.2524v5.pdf) [[Code]](https://github.com/rbgirshick/rcnn) [[Description]]()
 * R. Girshick, J. Donahue, T. Darrell, and J. Malik, “Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation,” 2014 IEEE Conference on Computer Vision and Pattern Recognition, 2014.
 
 :small_orange_diamond: **Fast R-CNN** [[Paper]](http://arxiv.org/pdf/1504.08083v2.pdf) [[Code]](https://github.com/rbgirshick/fast-rcnn) [[Description]]()
 * R. Girshick, “Fast R-CNN,” 2015 IEEE International Conference on Computer Vision (ICCV), 2015.
 
-:small_ornage_diamond: **Faster R-CNN** [[Paper]](http://arxiv.org/pdf/1506.01497v3.pdf) [[Matlab Code]](https://github.com/ShaoqingRen/faster_rcnn)[[Python Code]](https://github.com/rbgirshick/py-faster-rcnn) [[Description]]()
+:small_orange_diamond: **Faster R-CNN** [[Paper]](http://arxiv.org/pdf/1506.01497v3.pdf) [[Matlab Code]](https://github.com/ShaoqingRen/faster_rcnn)[[Python Code]](https://github.com/rbgirshick/py-faster-rcnn) [[Description]]()
 * Ren, Shaoqing, et al. "Faster R-CNN: Towards real-time object detection with region proposal networks." Advances in Neural Information Processing Systems. 2015.
 
 :small_orange_diamond: **HyperNet** [[Paper]](http://arxiv.org/pdf/1604.00600.pdf) [[Code]]  [[Description]]()
