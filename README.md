@@ -2,8 +2,8 @@
 
 A collection of deep learning papers and projects
 
-Collaborators - [Edwin Weill](https://github.com/eweill)
-		[Jesse Tetreault](https://github.com/jtetrea)
+Collaborators - [Edwin Weill](https://github.com/eweill), 
+		[Jesse Tetreault](https://github.com/jtetrea), 
 		[Varun Praveen](https://github.com/pravee2)
 
 Please let me know if you are interested in contributing to this endeavor.
