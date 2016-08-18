@@ -12,6 +12,7 @@ Please let me know if you are interested in contributing to this endeavor.
 - [Object Detection in Images](#object-detection-in-images)
 - [Segmentation](#segmentation)
 - [Object Detection in Videos](#object-detection-in-videos)
+- [Deep Learning Reading Group](#deep-learning-reading-group)
 
 ### Object Detection in Images
 :small_orange_diamond: **R-CNN** [[Paper]](http://arxiv.org/pdf/1311.2524v5.pdf) [[Code]](https://github.com/rbgirshick/rcnn) [[Description]](https://github.com/eweill/DeepLearningCollection/blob/master/objDetectionImg/RCNN.md)
@@ -45,3 +46,7 @@ Please let me know if you are interested in contributing to this endeavor.
 ### Object Detection in Videos
 :small_orange_diamond: **T-CNN** [[Paper]](http://arxiv.org/pdf/1604.02532v2.pdf) [[Code]](https://github.com/myfavouritekk/T-CNN) [[Description]](https://github.com/eweill/DeepLearningCollection/blob/master/objDetectionVid/TCNN.md)
 * Kang, Kai, et al. "T-cnn: Tubelets with convolutional neural networks for object detection from videos." arXiv preprint arXiv:1604.02532 (2016).
+
+
+
+### Deep Learning Reading Group
