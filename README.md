@@ -52,3 +52,5 @@ Please let me know if you are interested in contributing to this endeavor.
 
 
 ### Deep Learning Reading Group
+:small_orange_diamond: **An actor-critic algorithm for sequence prediction** [[Paper]](https://arxiv.org/pdf/1607.07086v2.pdf)  
+* Bahdanau, D., Brakel, P., Xu, K., Goyal, A., Lowe, R., Pineau, J., ... & Bengio, Y. (2016). An Actor-Critic Algorithm for Sequence Prediction. arXiv preprint arXiv:1607.07086.
