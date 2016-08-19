@@ -54,3 +54,6 @@ Please let me know if you are interested in contributing to this endeavor.
 ### Deep Learning Reading Group
 :small_orange_diamond: **An actor-critic algorithm for sequence prediction** [[Paper]](https://arxiv.org/pdf/1607.07086v2.pdf)  
 * Bahdanau, D., Brakel, P., Xu, K., Goyal, A., Lowe, R., Pineau, J., ... & Bengio, Y. (2016). An Actor-Critic Algorithm for Sequence Prediction. arXiv preprint arXiv:1607.07086.
+
+:small_orange_diamond: **Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding** [[Paper]](https://arxiv.org/pdf/1510.00149v5.pdf)
+* Han, Song, Huizi Mao, and William J. Dally. "Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding." CoRR, abs/1510.00149 2 (2015).
