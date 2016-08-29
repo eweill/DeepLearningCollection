@@ -57,3 +57,6 @@ Please let me know if you are interested in contributing to this endeavor.
 
 :small_orange_diamond: **Deep Compression** [[Paper]](https://arxiv.org/pdf/1510.00149v5.pdf)
 * Han, Song, Huizi Mao, and William J. Dally. "Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding." CoRR, abs/1510.00149 2 (2015).
+
+:small_orange_diamond: **Human-level control through deep reinforcement learning** [[Paper]](http://www.readcube.com/articles/10.1038/nature14236)
+* Volodymyr Mnih,	Koray Kavukcuoglu,	David Silver,	Andrei A. Rusu,	Joel Veness,	Marc G. Bellemare,	Alex Graves,	Martin Riedmiller,	Andreas K. Fidjeland,	Georg Ostrovski,	Stig Petersen,	Charles Beattie,	Amir Sadik,	Ioannis Antonoglou,	Helen King,	Dharshan Kumaran,	Daan Wierstra,	Shane Legg	& Demis Hassabis "Human-level control through deep reinforcement learning (2015).
