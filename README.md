@@ -60,3 +60,11 @@ Please let me know if you are interested in contributing to this endeavor.
 
 :small_orange_diamond: **Human-level control through deep reinforcement learning** [[Paper]](http://www.readcube.com/articles/10.1038/nature14236)
 * Volodymyr Mnih,	Koray Kavukcuoglu,	David Silver,	Andrei A. Rusu,	Joel Veness,	Marc G. Bellemare,	Alex Graves,	Martin Riedmiller,	Andreas K. Fidjeland,	Georg Ostrovski,	Stig Petersen,	Charles Beattie,	Amir Sadik,	Ioannis Antonoglou,	Helen King,	Dharshan Kumaran,	Daan Wierstra,	Shane Legg	& Demis Hassabis "Human-level control through deep reinforcement learning (2015).
+
+:small_orange_diamond: **Feedforward Initialization for Fast Inference of Deep Generative Networks is biologically plausible** [[Paper]]
+(https://arxiv.org/pdf/1606.01651v2.pdf)
+* Yoshua Bengio, Benjamin Scellier, Olexa Bilaniuk, Joao Sacramento, Walter Senn "Feedforward Initialization for Fast Inference of Deep Generative Networks is biologically plausible" (2016)
+
+:small_orange_diamond: **Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation** [[Paper]]
+(https://arxiv.org/pdf/1609.08144v1.pdf)
+* Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Mohammad Norouzi, Wolfgang Macherey, Maxim Krikun, Yuan Cao, Qin Gao, Klaus Macherey, Jeff Klingner, Apurva Shah, Melvin Johnson, Xiaobing Liu, Łukasz Kaiser, Stephan Gouws, Yoshikiyo Kato, Taku Kudo, Hideto Kazawa, Keith Stevens, George Kurian, Nishant Patil, Wei Wang, Cliff Young, Jason Smith, Jason Riesa, Alex Rudnick, Oriol Vinyals, Greg Corrado, Macduff Hughes, Jeffrey Dean "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation" (2016)
