@@ -68,3 +68,9 @@ Please let me know if you are interested in contributing to this endeavor.
 :small_orange_diamond: **Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation** [[Paper]]
 (https://arxiv.org/pdf/1609.08144v1.pdf)
 * Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Mohammad Norouzi, Wolfgang Macherey, Maxim Krikun, Yuan Cao, Qin Gao, Klaus Macherey, Jeff Klingner, Apurva Shah, Melvin Johnson, Xiaobing Liu, Łukasz Kaiser, Stephan Gouws, Yoshikiyo Kato, Taku Kudo, Hideto Kazawa, Keith Stevens, George Kurian, Nishant Patil, Wei Wang, Cliff Young, Jason Smith, Jason Riesa, Alex Rudnick, Oriol Vinyals, Greg Corrado, Macduff Hughes, Jeffrey Dean "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation" (2016)
+
+:small_orange_diamond: **SparkNet: Training Deep Networks in Spark** [[Paper]](https://arxiv.org/pdf/1511.06051v4.pdf)
+* Moritz, Philipp, et al. "SparkNet: Training Deep Networks in Spark." arXiv preprint arXiv:1511.06051 (2015).
+
+:small_orange_diamond: **DenseBox: Unifying Landmark Localization with End to End Object Detection** [[Paper]](https://arxiv.org/pdf/1509.04874.pdf)
+* Huang, Lichao, et al. "Densebox: Unifying landmark localization with end to end object detection." arXiv preprint arXiv:1509.04874 (2015).
